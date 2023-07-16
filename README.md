@@ -1,4 +1,4 @@
-<image src="banner-fcc.jpg.jpg">
+<image src="banner-fcc.jpg">
 
 # Curso de GIT y GITHUB de freeCodeCamp en Español.
 
