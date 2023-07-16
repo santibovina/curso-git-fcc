@@ -1,1 +1,3 @@
 ¡Adding new files to repository!
+
+Cloné el repositorio desde GitHub.
