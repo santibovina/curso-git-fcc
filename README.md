@@ -5,15 +5,15 @@
 https://www.youtube.com/watch?v=mBYSUUnMt9M&t=9440s
 
 git add <file name> / git add . <br>
-git status
-git commit -m <commit message>
-git commit --amend
-git log / git log --oneline / git log -p
-git branch <branch name>
-git branch
-git branch -m <new branch name>
-git branch -m <branch name to update> <new branch name>
-git checkout <branch name>
-git checkout -b <branch name>
-git del -d <branch name> / git del -D <branch name>
-git merge <branch name>
+git status <br>
+git commit -m <commit message> <br>
+git commit --amend <br>
+git log / git log --oneline / git log -p <br>
+git branch <branch name> <br>
+git branch <br>
+git branch -m <new branch name> <br>
+git branch -m <branch name to update> <new branch name> <br>
+git checkout <branch name> <br>
+git checkout -b <branch name> <br>
+git del -d <branch name> / git del -D <branch name> <br>
+git merge <branch name> <br>
