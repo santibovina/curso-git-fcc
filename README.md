@@ -17,3 +17,5 @@ git checkout <branch name> <br>
 git checkout -b <branch name> <br>
 git del -d <branch name> / git del -D <branch name> <br>
 git merge <branch name> <br>
+git remote / git remote -v <br>
+git push origin main <br>
