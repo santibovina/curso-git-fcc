@@ -4,7 +4,7 @@
 
 https://www.youtube.com/watch?v=mBYSUUnMt9M&t=9440s
 
-git add <file name> / git add .
+git add <file name> / git add . <br>
 git status
 git commit -m <commit message>
 git commit --amend
