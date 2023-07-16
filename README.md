@@ -19,4 +19,6 @@ git del -d <branch name> / git del -D <branch name> <br>
 git merge <branch name> <br>
 git remote / git remote -v <br>
 git push origin main <br>
-git pull origin main
+git pull origin main <br>
+git fetch origin <br>
+git checkout origin/main
