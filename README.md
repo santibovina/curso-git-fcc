@@ -21,4 +21,5 @@ git remote / git remote -v <br>
 git push origin main <br>
 git pull origin main <br>
 git fetch origin <br>
-git checkout origin/main
+git checkout origin/main <br>
+git remote add origin <url>
