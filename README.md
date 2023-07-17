@@ -22,4 +22,6 @@ git push origin main <br>
 git pull origin main <br>
 git fetch origin <br>
 git checkout origin/main <br>
-git remote add origin <url>
+git remote add origin <url> <br>
+git branch -a (para ver los branches remotos) <br>
+##cuando creamos una branch remota y hacemos un pull desde bash (git pull origin <new branch name>, hay que hacer un git fetch origin y luego un git checkout <branch name> para cambiar a la branch remota que habíamos creado.
