@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=mBYSUUnMt9M&t=9440s
 
 git add <file name> / git add . <br>
 git status <br>
-git commit -m <commit message> <br>
+git commit -m [commit message] <br>
 git commit --amend <br>
 git log / git log --oneline / git log -p <br>
 git branch <branch name> <br>
